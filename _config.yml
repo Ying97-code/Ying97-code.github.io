@@ -12,7 +12,7 @@ github_repo: "https://github.com/Ying97-code/Ying97-code.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "指南针也有失效的时候 只有音乐才是唯一的方向"
-sidebar-avatar: /img/img-439276c2259ec2f1a48d13997732c17b.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/999135148.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "三叶草国际语维基词典",
-        href: "https://github.com/klovien/klovien.github.io/wiki"
+        title: "My GitHub:Ying97-code",
+        href: "https://github.com/Ying97-code"
     },{
-        title: "三叶草国际语互动社区",
-        href: "https://klovien.fandom.com/wiki/Klovien_Interlingua"
+        title: "My juejin:Ying97-code",
+        href: "https://juejin.im/user/5eb07e625188256d8a227fcd/posts"
     },{
-        title: "知乎：人造国际语",
-        href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
+        title: "My csdn:Ying97-code",
+        href: "https://blog.csdn.net/qq_41006720"
     },{
-        title: "知乎：Henri_Jambo",
-        href: "https://www.zhihu.com/people/henry-jiang-78" 
+        title: "My Zhihu：C艺恩",
+        href: "https://www.zhihu.com/people/qing-zao-65" 
     }
 ]
